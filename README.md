@@ -10,8 +10,8 @@ queue - hello <br>
 routing_key - hello <br>
 
 # How to run
-$ python send.py
-$ python receive.py
+$ python send.py <br>
+$ python receive.py <br>
 
 # Overview
 Need to install rabbitMQ server in your local Server <br>
